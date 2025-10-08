@@ -255,6 +255,10 @@ goal = input("Enter goal node: ")
 aStarAlgo(start, goal)
 
 ```
+
+## INPUT GRAPH:
+![WhatsApp Image 2025-10-08 at 11 41 54_d9de9439](https://github.com/user-attachments/assets/c4915d24-8ae5-4a19-814a-a2d8bcb01878)
+
 ## INPUT: 
 <img width="406" height="366" alt="image" src="https://github.com/user-attachments/assets/83b4b54b-ec7b-4759-be0d-f2cbe1a3f5ed" />
 
@@ -262,3 +266,4 @@ aStarAlgo(start, goal)
 <img width="378" height="73" alt="image" src="https://github.com/user-attachments/assets/fc33040b-03ab-4f4b-b071-0595d44dafe6" />
 
 ## RESULT: 
+Thus, the A* algorithm has been successfully implemented and executed to find the optimal path between two nodes in a given weighted graph.
